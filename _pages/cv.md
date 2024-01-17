@@ -17,15 +17,14 @@ Education
 
 Work experience
 ======
-* 01/2021 - 01/2022: Research Engineer
-  * Wandercraft, Paris
+* 01/2021 - 01/2022: Research Engineer, Wandercraft, Paris
   * Dynamical walk team
   * Reinforcement learning for self-balanced exoskeleton
 
-* 01/2022 - 10/2022: Research Engineer
-  * Inria Paris
-  * Willow Team
-  * Software development for [pinocchio](https://github.com/stack-of-tasks/pinocchio)
+* 01/2022 - 01/2023: Research Engineer, Inria, Paris
+  * Willow team
+  * Software development for [pinocchio](https://github.com/stack-of-tasks/pinocchio) and [proxsuite](https://github.com/simple-robotics/proxsuite)
+
   
 <!-- Skills
 ======

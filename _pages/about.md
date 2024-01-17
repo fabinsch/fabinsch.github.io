@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student affiliated with both the [WILLOW](https://www.di.ens.fr/willow/) project team at Inria Paris (Department of Computer Science at École Normale Supérieure de Paris) and [ISIR](https://www.isir.upmc.fr/isir/presentation/?lang=en) (Sorbonne University/CNRS), under the supervision of [Justin Carpentier](https://jcarpent.github.io) and [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en). 
+I am a second-year Ph.D. student affiliated with both the [WILLOW](https://www.di.ens.fr/willow/) project team at Inria Paris (Department of Computer Science at École Normale Supérieure de Paris) and [ISIR](https://www.isir.upmc.fr/isir/presentation/?lang=en) (Sorbonne University/CNRS), under the supervision of [Justin Carpentier](https://jcarpent.github.io) and [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en). 
 
 As a Ph.D. student in robotics, I focus on improving robots' agility and dexterity through the integration of optimal control and reinforcement learning. This involves designing algorithms for efficient control and optimization, and exploring their theoretical foundations and real-world applications. My goal is to advance the field of robotics and find new solutions to its challenges.
 
