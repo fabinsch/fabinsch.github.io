@@ -6,7 +6,7 @@ video: 'https://www.youtube.com/watch?v=HLx6CHfpmBM'
 permalink: /publication/2022-03-01-reactive-stepping
 excerpt: 'This paper presents a reinforcement learning framework capable of learning robust standing push recovery for bipedal robots with a smooth out-of-the-box transfer to reality, requiring only instantaneous proprioceptive observations.'
 date: 2022-03-01
-venue: '2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/abs/2203.01148'
 citation: 'Duburcq et al. (2022). &quot;Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante.&quot; <i>IROS22</i>.'
 ---
