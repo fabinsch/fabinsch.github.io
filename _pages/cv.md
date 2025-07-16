@@ -19,7 +19,7 @@ Work experience
 ======
 * 01/2021 - 01/2022: Research Engineer, Wandercraft, Paris
   * Dynamical walk team
-  * Reinforcement learning for self-balanced exoskeleton
+  * Reinforcement learning for self-balanced exoskeleton, leading to a [patent application](https://patents.google.com/patent/US20250162141A1/en) (US20250162141A1, 2025)
 
 * 01/2022 - 01/2023: Research Engineer, Inria, Paris
   * Willow team
