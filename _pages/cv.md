@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechanical Engineering, Technical University Munich, 2018
 * M.S. in Robotics, Cognition, Intelligence, Technical University Munich, 2020
-* Ph.D in Robotics, École Normale Supérieure de Paris and Sorbonne University, 2025 (expected)
+* Ph.D in Robotics, Inria and École Normale Supérieure de Paris, 2025 (expected)
 
 Work experience
 ======
