@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fabian Schramm"
 title_separator          : "-"
 name                     : &name "Fabian Schramm"
-description              : &description "Ph.D. student at Inria Paris"
+description              : &description "Ph.D. Student at Inria Paris"
 url                      : https://fabinsch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fabinsch/fabinsch.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fabian Schramm"
   avatar           : "fschramm_small.png"
-  bio              : "Ph.D. student at Inria and ENS Paris"
+  bio              : "Ph.D. Student at Inria and ENS Paris"
   location         : "Paris, France"
   employer         :
   pubmed           : 
