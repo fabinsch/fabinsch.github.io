@@ -11,20 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, Technical University Munich, 2018
-* M.S. in Robotics, Cognition, Intelligence, Technical University Munich, 2020
-* Ph.D in Robotics, Inria and École Normale Supérieure de Paris, 2025 (expected)
+* **Ph.D. in Robotics** (2023 – 2026) | Inria Paris, ENS
+  * *Expected Summer 2026*
+* **M.Sc. in Robotics, Cognition, Intelligence** (2018 – 2021) | TUM
+  * *Graduated with distinction*
+* **B.Sc. in Mechanical Engineering** (2014 – 2018) | TUM
 
-Work experience
+Work Experience
 ======
-* 01/2021 - 01/2022: Research Engineer, Wandercraft, Paris
-  * Dynamic walking team (R&D)
-  * Reinforcement learning for self-balanced exoskeleton, leading to a [patent application](https://patents.google.com/patent/US20250162141A1/en) (US20250162141A1, 2025)
+* **Research Engineer** (Jan 2022 – Jan 2023) | Inria Paris
+  * Willow Team
+  * Core developer for [Pinocchio](https://github.com/stack-of-tasks/pinocchio) and [Proxsuite](https://github.com/simple-robotics/proxsuite)
+* **Research Engineer** (Jan 2021 – Jan 2022) | Wandercraft
+  * Reinforcement learning for self-balancing exoskeleton
+  * **Output:** [Patent US20250162141A1](https://patents.google.com/patent/US20250162141A1/en)
 
-* 01/2022 - 01/2023: Research Engineer, Inria, Paris
-  * Willow team
-  * Core developper for [pinocchio](https://github.com/stack-of-tasks/pinocchio) and [proxsuite](https://github.com/simple-robotics/proxsuite)
-
+Research Internships
+======
+* **Master Thesis** (Apr 2020 – Dec 2020) | TUM
+  * Dynamic Vision and Learning Group
+  * Supervised by [Prof. Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/).
+* **Visiting Researcher** (Sep 2019 – Mar 2020) | University of Tokyo
+  * Nakamura Lab
+  * Supervised by [Prof. Yoshihiko Nakamura](https://scholar.google.com/citations?user=gkFd-RcAAAAJ&hl=en).
   
 <!-- Skills
 ======
