@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the [WILLOW](https://www.di.ens.fr/willow/) team at Inria Paris and the Computer Science Department of École Normale Supérieure (ENS). I am advised by [Justin Carpentier](https://jcarpent.github.io) (Inria & ENS Paris) and [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en) ([ISIR](https://www.isir.upmc.fr/isir/presentation/?lang=en), Sorbonne University). 
+I am a postdoctoral researcher in the [WILLOW](https://www.di.ens.fr/willow/) team at Inria Paris and the Computer Science Department of École Normale Supérieure (ENS). I recently completed my Ph.D. there, advised by [Justin Carpentier](https://jcarpent.github.io) (Inria & ENS Paris) and [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en) ([ISIR](https://www.isir.upmc.fr/isir/presentation/?lang=en), Sorbonne University), with a thesis on [*Samples That Matter: Principled Policy Learning for Robotics*](https://hal.science/tel-05683395/).
 
 My research focuses on improving robots' agility and dexterity through the integration of optimization and reinforcement learning. I explore sampling-based optimization methods enhanced with gradient information and expressive policy representations such as flow-matching. My goal is to design efficient algorithms for control and optimization, covering both theoretical foundations and real-world deployement.
 

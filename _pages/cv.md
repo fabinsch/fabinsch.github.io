@@ -12,13 +12,15 @@ redirect_from:
 ## Education
 
 * **Ph.D. in Robotics** (2023 – 2026) — Inria Paris, ENS
-  * *Expected graduation in summer 2026*
+  * Thesis: [*Samples That Matter: Principled Policy Learning for Robotics*](https://hal.science/tel-05683395/)
 * **M.Sc. in Robotics, Cognition, Intelligence** (2018 – 2021) — TUM
   * *Graduated with distinction*
 * **B.Sc. in Mechanical Engineering** (2014 – 2018) — TUM
 
 ## Work Experience
 
+* **Postdoctoral Researcher** (2026 – present) — Inria Paris
+  * Willow Team
 * **Research Engineer** (Jan 2022 – Jan 2023) — Inria Paris
   * Willow Team
   * Core developer for [Pinocchio](https://github.com/stack-of-tasks/pinocchio) and [Proxsuite](https://github.com/simple-robotics/proxsuite).
